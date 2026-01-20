@@ -84,7 +84,7 @@ Analyze pedestrian sensor data and public transport infrastructure in Melbourne 
 - Tourist attraction location data
 
 ### Project 2
-- [Melbourne Pedestrian Counting System](https://data.melbourne.vic.gov.au/)
+- Melbourne Pedestrian Counting System(https://data.melbourne.vic.gov.au/)
 - Melbourne train station and bus stop location data
 - Public Transport Victoria (PTV) API
 
