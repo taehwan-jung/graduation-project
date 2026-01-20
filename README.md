@@ -1,6 +1,6 @@
 ## Project Overview
 
-This repository contains two capstone projects completed during the Master of Data Science program at Deakin University. Each project focuses on analyzing and predicting transportation demand patterns using real-world urban data.
+These two capstone projects completed during the Master of Data Science program at Deakin University. Each project focuses on analyzing and predicting transportation demand patterns using real-world urban data.
 
 ---
 
