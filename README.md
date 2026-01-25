@@ -12,13 +12,11 @@ capstone-projects/
 │   ├── UC00079_Tourism_Impact_Analysis.ipynb    # Main analysis notebook
 │   ├── UC00079_Tourism_Impact_Analysis.html     # HTML report
 │   ├── UC00079_Tourism_Impact_Analysis.json     # Project metadata
-│   └── file1.ipynb                              # Additional analysis notebook
 │
 ├── Capstone_Project_2/              # Capstone Project 2: Public Transport Demand Analysis (2025)
 │   ├── UC00132_Public_Transport_Demand (1).ipynb   # Main analysis notebook
 │   ├── UC00132_Public_Transport_Demand.html        # HTML report
 │   ├── UC00132_Public_Transport_Demand.json        # Project metadata
-│   └── file2.ipynb                                 # Additional analysis notebook
 │
 └── README.md                        # This file
 ```
