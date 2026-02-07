@@ -50,9 +50,6 @@ picture of regional tourism patterns.
   estimation of total visitor demand including international tourists.</em>
 </p>
 
-**Key Insight:** The consistent ratio between pedestrian activity and domestic 
-visitors allowed us to extrapolate total tourism demand with high confidence.
-
 ---
 
 #### 2. Spatial Distribution - Sensor & Attraction Mapping
