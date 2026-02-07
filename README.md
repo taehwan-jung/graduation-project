@@ -25,8 +25,56 @@ capstone-projects/
 
 ## 🚀 Project 1: Travel Demand Prediction (2024)
 
-### Project Goals
-Estimate tourism demand by combining regional pedestrian data and domestic traveler data, and analyze patterns of tourist concentration in various areas.
+### Project Overview
+**Objective:** Estimate total tourism demand (domestic + international visitors) 
+across Melbourne CBD using pedestrian sensor data and available domestic tourist statistics.
+
+**Challenge:** While domestic tourist data was readily available, international 
+visitor numbers were not directly accessible.
+
+**Solution:** Leveraged the correlation between pedestrian counts and domestic 
+tourist numbers to estimate international visitor demand, providing a complete 
+picture of regional tourism patterns.
+
+---
+
+### 📊 Methodology & Key Visualizations
+
+#### 1. Correlation Analysis (Foundation)
+<p align="center">
+  <img src="https://github.com/" width="700">
+  <br>
+  <em><strong>Core Analysis:</strong> Strong positive correlation (r=0.85) between 
+  pedestrian sensor counts and domestic tourist numbers. This relationship enabled 
+  estimation of total visitor demand including international tourists.</em>
+</p>
+
+**Key Insight:** The consistent ratio between pedestrian activity and domestic 
+visitors allowed us to extrapolate total tourism demand with high confidence.
+
+---
+
+#### 2. Spatial Distribution - Sensor & Attraction Mapping
+<p align="center">
+  <img src="https://github.com/" width="700">
+  <br>
+  <em>Melbourne CBD showing pedestrian sensor locations (blue dots) and major 
+  tourist attractions (green markers). Haversine distance used to map sensors 
+  within 200m radius of attractions.</em>
+</p>
+
+---
+
+#### 3. Tourist Concentration Zones (Results)
+<p align="center">
+  <img src="https://github.com/" width="700">
+  <br>
+  <em>K-means clustering identified four distinct tourist concentration zones 
+  based on estimated total visitor demand. Cluster analysis revealed Swanston 
+  Street and Flinders Street Station areas as primary tourist hotspots.</em>
+</p>
+
+---
 
 ### Key Features
 - **Data Integration**: Combined regional pedestrian counts with domestic traveler statistics
