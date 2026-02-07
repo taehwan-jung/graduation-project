@@ -42,7 +42,8 @@ picture of regional tourism patterns.
 
 #### 1. Correlation Analysis (Foundation)
 <p align="center">
-  <img src="https://github.com/" width="700">
+  <img src="https://github.com/user-attachments/assets/b057b76d-8992-46e3-8c60-0c72c29fc638" width="700">
+
   <br>
   <em><strong>Core Analysis:</strong> Strong positive correlation (r=0.85) between 
   pedestrian sensor counts and domestic tourist numbers. This relationship enabled 
