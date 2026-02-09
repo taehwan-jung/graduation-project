@@ -111,7 +111,7 @@ significantly impact pedestrian activity around transport hubs.
 
 #### 1. Transport Infrastructure & Pedestrian Sensor Network
 <p align="center">
-  <img src="github.com/user-attachments/assets/657af245-06c0-4cb0-be61-f18323be3c0e" width="700">
+  <img src="https://github.com/user-attachments/assets/657af245-06c0-4cb0-be61-f18323be3c0e" width="700">
 
   <br>
   <em>Melbourne CBD showing the distribution of pedestrian sensors (Ped sensors - blue), 
@@ -125,7 +125,7 @@ significantly impact pedestrian activity around transport hubs.
 
 **Bus Stops:**
 <p align="center">
-  <img src="github.com/user-attachments/assets/e63dd533-3e27-4f24-8008-954d91e38af9" width="700">
+  <img src="https://github.com/user-attachments/assets/e63dd533-3e27-4f24-8008-954d91e38af9" width="700">
   
   <br>
   <em>Average pedestrian count by hour around bus stops. Clear bimodal pattern 
@@ -136,7 +136,7 @@ significantly impact pedestrian activity around transport hubs.
 
 **Train Stations:**
 <p align="center">
-  <img src="github.com/user-attachments/assets/3a641847-0925-4388-99b0-f6c6f17569c9" width="700">
+  <img src="https://github.com/user-attachments/assets/3a641847-0925-4388-99b0-f6c6f17569c9" width="700">
 
   <br>
   <em>Average pedestrian count by hour around train stations. More pronounced 
