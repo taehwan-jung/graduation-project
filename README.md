@@ -150,7 +150,7 @@ significantly impact pedestrian activity around transport hubs.
 #### 3. Feature Importance Analysis - Random Forest
 
 <p align="center">
-  <img src="github.com/user-attachments/assets/f36798fd-6ba8-49a0-a9bf-57143681d134" width="600">
+  <img src="https://github.com/user-attachments/assets/f36798fd-6ba8-49a0-a9bf-57143681d134" width="600">
 
   <br>
   <em> Random Forest feature importance for bus stop 
