@@ -38,7 +38,7 @@ picture of regional tourism patterns.
 
 ---
 
-### 📊 Methodology & Key Visualizations
+### 📊 Key Visualizations
 
 #### 1. Correlation Analysis (Foundation)
 <p align="center">
@@ -98,8 +98,67 @@ picture of regional tourism patterns.
 
 ## 🚌 Project 2: Public Transport Demand Analysis (2025)
 
-### Project Goals
-Analyze pedestrian sensor data and public transport infrastructure in Melbourne CBD to understand transport demand and identify key influencing factors.
+### Project Overview
+**Objective:** Analyze the relationship between public transport infrastructure 
+and pedestrian movement patterns in Melbourne CBD to identify key factors 
+influencing transport demand.
+
+**Approach:** Integrated pedestrian sensor data with train station and bus stop 
+locations, applying Random Forest regression to determine which factors most 
+significantly impact pedestrian activity around transport hubs.
+
+### 📊 Key Visualizations
+
+#### 1. Transport Infrastructure & Pedestrian Sensor Network
+<p align="center">
+  <img src="github.com/user-attachments/assets/657af245-06c0-4cb0-be61-f18323be3c0e" width="700">
+
+  <br>
+  <em>Melbourne CBD showing the distribution of pedestrian sensors (Ped sensors - blue), 
+  train stations (red), and bus stops (green). Spatial analysis mapped sensors to 
+  nearby transport infrastructure using proximity-based clustering.</em>
+</p>
+
+---
+
+#### 2. Temporal Patterns - Hourly Pedestrian Activity
+
+**Bus Stops:**
+<p align="center">
+  <img src="github.com/user-attachments/assets/e63dd533-3e27-4f24-8008-954d91e38af9" width="700">
+  
+  <br>
+  <em>Average pedestrian count by hour around bus stops. Clear bimodal pattern 
+  with peaks during morning (8-9 AM: ~500 pedestrians) and evening (5-6 PM: ~550 
+  pedestrians) rush hours. Off-peak periods (2-5 AM) show minimal activity 
+  (~50 pedestrians).</em>
+</p>
+
+**Train Stations:**
+<p align="center">
+  <img src="github.com/user-attachments/assets/3a641847-0925-4388-99b0-f6c6f17569c9" width="700">
+
+  <br>
+  <em>Average pedestrian count by hour around train stations. More pronounced 
+  peaks compared to bus stops - morning rush: ~900 pedestrians, evening rush: 
+  ~1100 pedestrians. Train stations demonstrate 2x higher peak activity than 
+  bus stops, indicating their role as primary commuter hubs.</em>
+</p>
+
+---
+
+#### 3. Feature Importance Analysis - Random Forest
+
+<p align="center">
+  <img src="github.com/user-attachments/assets/f36798fd-6ba8-49a0-a9bf-57143681d134" width="600">
+
+  <br>
+  <em> Random Forest feature importance for bus stop 
+  analysis. 'hourday' (hour of day) dominates with importance >0.8, followed by 
+  weekday variables at much lower importance levels (~0.05 each).</em>
+</p>
+
+---
 
 ### Key Features
 - **Data Collection**: Collected Melbourne pedestrian sensor, train station, and bus stop data via APIs
