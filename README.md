@@ -54,7 +54,8 @@ picture of regional tourism patterns.
 
 #### 2. Spatial Distribution - Sensor & Attraction Mapping
 <p align="center">
-  <img src="https://github.com/" width="700">
+  <img src="https://github.com/user-attachments/assets/d7186d94-1a87-4df7-abbe-7dbc27de0556" width="700">
+
   <br>
   <em>Melbourne CBD showing pedestrian sensor locations (blue dots) and major 
   tourist attractions (green markers). Haversine distance used to map sensors 
@@ -65,7 +66,8 @@ picture of regional tourism patterns.
 
 #### 3. Tourist Concentration Zones (Results)
 <p align="center">
-  <img src="https://github.com/" width="700">
+  <img src="https://github.com/user-attachments/assets/ca1a1ede-b5c1-45e9-88e5-23bb332a13ea" width="700">
+
   <br>
   <em>K-means clustering identified four distinct tourist concentration zones 
   based on estimated total visitor demand. Cluster analysis revealed Swanston 
